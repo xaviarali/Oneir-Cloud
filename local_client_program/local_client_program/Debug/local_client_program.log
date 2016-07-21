@@ -1,0 +1,5 @@
+﻿  local_client_program.cpp
+c:\users\xavi\documents\visual studio 2015\projects\local_client_program\local_client_program\local_client_program.cpp(289): warning C4101: 'cbData': unreferenced local variable
+c:\users\xavi\documents\visual studio 2015\projects\local_client_program\local_client_program\local_client_program.cpp(375): warning C4018: '<': signed/unsigned mismatch
+c:\users\xavi\documents\visual studio 2015\projects\local_client_program\local_client_program\local_client_program.cpp(416): warning C4101: 'taskbar_sz': unreferenced local variable
+  local_client_program.vcxproj -> c:\users\xavi\documents\visual studio 2015\Projects\local_client_program\Debug\local_client_program.exe

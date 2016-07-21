@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  local_client_program.cpp
+local_client_program.cpp(289): warning C4101: 'cbData': unreferenced local variable
+local_client_program.cpp(375): warning C4018: '<': signed/unsigned mismatch
+local_client_program.cpp(416): warning C4101: 'taskbar_sz': unreferenced local variable
+  Generating code
+  All 20 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  local_client_program.vcxproj -> c:\users\xavi\documents\visual studio 2015\Projects\local_client_program\Release\local_client_program.exe
